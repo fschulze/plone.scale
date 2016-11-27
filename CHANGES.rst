@@ -15,7 +15,8 @@ New features:
 
 Bug fixes:
 
-- *add item here*
+- Remove unused dependency.
+  [gforcada]
 
 
 2.1 (2016-11-01)
