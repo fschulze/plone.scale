@@ -10,7 +10,6 @@ STORAGE_REQUIREMENTS = [
     'zope.annotation',
     'zope.component',
     'zope.interface',
-    'Persistence',
 ]
 
 TESTS_REQUIREMENTS = [
